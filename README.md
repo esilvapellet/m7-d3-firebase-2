@@ -1,24 +1,13 @@
 # m7-d3-firebase-2
-
-## Project setup
+***
+### Project URL
+***
+[Enlace al proyecto](https://desafio-sistema-usuarios.web.app/)
+***
+### Project detail
 ```
-npm install
+Se desarrolla SPA, que consiste en un sistema de registro y autenticación con Vue Router y Firebase Authentication.
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Techonologies
+***
+Se utiliza framework Vue.js, HTML y Javascript.
